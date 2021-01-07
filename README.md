@@ -1,2 +1,2 @@
-# TheSparksfoundation
-Internship Tasks for TheSparksFoundation
+# TheSparksFoundation
+Internship Tasks for TheSparksFoundation.
